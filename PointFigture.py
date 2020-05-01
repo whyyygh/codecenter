@@ -32,5 +32,6 @@ for ichg, chg in enumerate(changes):
                s=175)   #<----- control size of scatter symbol
 
 ax.set_xlim(0, len(changes)+1)
-fig.savefig('pointandfigure.png')
+# fig.savefig('pointandfigure.png')
+fig.savefig('pointandfigure1.png')
 plt.show()
