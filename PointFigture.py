@@ -33,5 +33,5 @@ for ichg, chg in enumerate(changes):
 
 ax.set_xlim(0, len(changes)+1)
 # fig.savefig('pointandfigure.png')
-fig.savefig('pointandfigure1.png')
+fig.savefig('pointandfigure.png')
 plt.show()
